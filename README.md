@@ -1,3 +1,7 @@
+# md-webpack-skeleton
+
+A demonstration repository using [aurelia-materialize-bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) with [aurelia-skeleton.webpack](https://github.com/aurelia/skeleton-navigation/tree/master/skeleton-esnext-webpack).
+
 # aurelia-skeleton-webpack
 
 ## Getting started
