@@ -20,6 +20,10 @@ export class Welcome {
     alert(`Welcome, ${this.fullName}!`);
   }
 
+  greet() {
+    this.previousValue = this.fullName;
+  }
+
   canDeactivate() {
     if (this.fullName !== this.previousValue) {
       return confirm('Are you sure you want to leave?');
